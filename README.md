@@ -48,22 +48,18 @@ Launch Windows EC2 instance and connect using RDP.
 
 ## OUTPUT
 ### S3 bucket
-
 ![Screenshot (70)](https://github.com/user-attachments/assets/62d16a7f-e6f1-46f5-bd57-ef60b332c2e3)
 
 ### linux instance
-
 ![Screenshot (84)](https://github.com/user-attachments/assets/6acdbe8a-418e-4e35-94e3-ecb358e12ab5)
 
 ### windows instance
-
 ![WINDOW](https://github.com/user-attachments/assets/fc74aad4-f01b-43c4-94dc-81dac3390eb0)
 
 ### REG NUMBER: 212223220032
 ### NAME: HARSETHA J
  
-
-## RESULT
+ ## RESULT
  The experiment to create an S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
 
   
