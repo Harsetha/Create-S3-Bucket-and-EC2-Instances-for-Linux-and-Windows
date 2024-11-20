@@ -1,4 +1,8 @@
- # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+ # EX 3 CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+
+ ### REG NUMBER: 212223220032
+### NAME: HARSETHA J
+
   ## AIM
        To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
@@ -56,9 +60,6 @@ Launch Windows EC2 instance and connect using RDP.
 ### windows instance
 ![WINDOW](https://github.com/user-attachments/assets/fc74aad4-f01b-43c4-94dc-81dac3390eb0)
 
-### REG NUMBER: 212223220032
-### NAME: HARSETHA J
- 
  ## RESULT
  The experiment to create an S3 bucket and launch EC2 instances for Linux and Windows is successfully completed.
 
